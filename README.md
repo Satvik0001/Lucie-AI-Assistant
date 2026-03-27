@@ -15,6 +15,20 @@ Lucie is a voice-controlled AI assistant built using Python, Whisper (GPU), and 
 * faster-whisper
 * Piper TTS
 * Ollama (Llama3)
+* 
+## 🔊 Voice Setup (Piper)
+
+This project uses Piper for text-to-speech.
+
+Due to file size, Piper models are not included in this repository.
+
+### Setup Instructions:
+
+1. Download Piper from: https://github.com/rhasspy/piper
+2. Place the `piper` folder inside the project directory
+3. Add your voice model (e.g., `en_US-lessac-medium.onnx`)
+
+---
 
 ## ⚠️ Current Status
 
