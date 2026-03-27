@@ -30,7 +30,7 @@ Some features like wake word detection and latency optimization are still under 
 
 ## 🎯 Goal
 
-To build a fully offline, intelligent AI assistant similar to Jarvis.
+To build a fully offline, intelligent AI assistant.
 
 ---
 
