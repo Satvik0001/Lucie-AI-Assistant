@@ -1,0 +1,8 @@
+**pycache**/
+*.pyc
+.env
+.cache/
+*.wav
+*.mp3
+lucie.db
+Python 11/
